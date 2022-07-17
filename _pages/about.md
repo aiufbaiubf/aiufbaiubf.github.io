@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning and Vision Group - IIT Hyderabad"
+title: "Machine Analysis of Data for Human Audition and Visualization Lab"
 layout: textlay
 excerpt: "About Us"
 sitemap: false
