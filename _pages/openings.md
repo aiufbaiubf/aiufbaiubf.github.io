@@ -14,7 +14,7 @@ Open Positions
 * **(June 2022 - Long-term Research Internship):** If you are interested in 6-month to 1-year research-focused internships in machine learning/deep learning/computer vision/audio processing and have relevant background (coursework/projects in machine learning/deep learning, exposure to reading/writing papers in top-tier conferences), please send an email with subject line “Long-term Research Position at MADHAVLab” to discuss more. We expect to have positions starting in August 2022.
 
 * **(June 2022 - MS(R)):** If you are already an MS(R) student at IIT K, and are intersted in working in the lab, please send an email with the subject line "MSR Supervision at MADHAVLab". We are always looking for motivated students in this category. 
-* 
+
 * **(Nov 2021 - PhD):** We will be recruiting students through our PhD programme in Nov/Dec 2022. Kindly see [this EE department link](https://iitk.ac.in/ee/admissions) for details.
 
 <!-- * **(Aug 2019 - Postdoctoral Fellow):** If you are interested in pursuing a postdoctoral fellowship with our group, please send an email with subject line “Postdoctoral Position at IIT-H” to discuss more. -->
