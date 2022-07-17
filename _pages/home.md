@@ -1,16 +1,16 @@
 ---
-title: "Machine Analysis of Data for Human Audition and Visualization Lab - IIT Kanpur"
+title: "MADHAV Lab - IIT Kanpur"
 layout: homelay
-excerpt: "Machine Analysis of Data for Human Audition and Visualization Lab - IIT Kanpur"
+excerpt: "MADHAV Lab - IIT Kanpur"
 sitemap: false
 permalink: /
 ---
 
 
 <div style="line-height: 21px; margin-top: 30px;">
-Our group’s research interests lie at the intersection of the theory and application of machine learning - with a focus on applications in computer vision. With a strong interest in the mathematical fundamentals and a passion for real-world application, our group aims on being at the forefront of the field, by carrying out impactful research in the areas of deep learning, machine learning and computer vision, guided by application contexts derived from real-world use.
+Our group’s research interests lie at the intersection of the theory and application of machine learning - with a focus on applications in audio and speech processing, Physics and dash. With a strong interest in the mathematical fundamentals and a passion for real-world application, our group aims on being at the forefront of the field, by carrying out impactful research in the areas of deep learning, machine learning and speech processing, guided by application contexts derived from real-world use.
 
-*Keywords*: Deep Learning, Machine Learning, Computer Vision, Optimization, Agriculture, Autonomous Navigation
+*Keywords*: Deep Learning, Machine Learning, Speech Signal Processing, Optimization, Computer Vision, Agriculture, Autonomous Navigation
 
 #### Our problems of interest in recent times have focused on:
 * **Learning with limited supervision (or) Label-efficient learning**: This includes problems such as zero-shot learning, few-shot learning, continual learning, active learning, domain adaptation, domain generalization
