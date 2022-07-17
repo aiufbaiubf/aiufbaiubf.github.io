@@ -1,0 +1,48 @@
+
+- name: Divyagna Bavikadi
+  email: divyagna.b@cse.iith.ac.in
+  webpage: "https://divyagnab.github.io/home/"
+  info: "2021 - Present"
+  photo: divyagna.jpg
+  topics: Compute Vision, Human Pose, Signal Processing using AI, Medical Applications
+
+- name: Monish Keswani
+  email: monish.keswani@cse.iith.ac.in
+  info: "2021 - Present"
+  affiliations: IISc, Bangalore
+  photo: placeholder.jpg
+
+- name: Rishabh Lalla
+  email: rishabh.lalla@cse.iith.ac.in
+  info: "2021 - Present"
+  affiliations: Univ of Mumbai
+  photo: placeholder.jpg
+
+- name: Benin Godfrey L
+  id: 
+  email: benin.godfrey@cse.iith.ac.in
+  info: "2020 - Present"
+  webpage: 
+  affiliations: 
+  photo: placeholder.jpg
+  topics: Computer Vision, Causality, Evolutionary Algorithms
+
+- name: Gaurav Bhatt
+  photo: gauravbhatt.jpg
+  info: "2019 - Present"
+  id: gauravbhatt
+  email: gauravbhatt@iith.ac.in
+  affiliations: IIT Hyderabad
+  topics:
+  # webpage: 
+
+- name: Rahul Vigneswaran K
+  id: rahulvigneswaran
+  email: rahulvigneswaran@iith.ac.in
+  info: "2019 - Present"
+  webpage: "https://rahulvigneswaran.github.io/"
+  affiliations: IIT Hyderabad
+  photo: rahulvigneswaran.png
+  google-scholar: https://scholar.google.co.in/citations?user=s7P6kbsAAAAJ&hl=en
+  topics:
+

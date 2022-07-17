@@ -1,0 +1,232 @@
+# - date:
+#   headline:
+
+# If there is a colon in your text use double quotes
+
+- date: Dec 2021
+  headline: Our work on a dataset and new metrics for causal disentanglement accepted at <b class='highlight'>AAAI 2022</b>. Congratulations, Gowtham and Benin!
+
+- date: Nov 2021
+  headline: 7 papers accepted at WACV 2022.
+
+- date: Oct 2021
+  headline: Our work on <a href="https://arxiv.org/abs/2003.08798">incremental object detection</a> is accepted at <b class='highlight'>PAMI</b>. Congratulations to Joseph, this is joint work with MBZUAI, Abu Dhabi.
+
+- date: Sep 2021
+  headline: Two papers accepted at accepted at <b class='highlight'>NeurIPS 2021</b>, please see the details <a href="https://lab1055.github.io/research/publications/">here</a>. Congratulations to Sandesh, Anindya, Anirban and Sowrya!
+
+- date: Jul 2021
+  headline: Dr. Vineeth's course on Deep Learning for Computer Vision on NPTEL is being re-offered from Jul-Oct 2021; here is <a href="https://onlinecourses.nptel.ac.in/noc21_cs93/preview" target=&ldquo;blank&rdquo;>the link</a> for those interested to register.
+
+- date: Jun 2021
+  headline: Congratulations to Dr. Vineeth, Puneet, Vedant and Shreyas - an all-undergrad team on winning the <b class='highlight'>Best Paper Award</b> at the <a href="https://aisecure-workshop.github.io/amlcvpr2021/" target=&ldquo;blank&rdquo;>Adversarial Machine Learning in Real-World Computer Vision Systems and Online Challenges workshop</a> at CVPR 2021. We are grateful to Analytics India Magazine for <a href="https://analyticsindiamag.com/exclusive-meet-the-iit-hyderabad-team-that-won-the-best-paper-awards-at-cvpr-2021/" target=&ldquo;blank&rdquo;>their article</a> featuring this work. 
+
+- date: May 2021
+  headline: Congratulations to Dr. Vineeth, Gowtham and Benin on winning the <b class='highlight'>Best Paper Award</b> at the <a href="https://www.causalityinvision.com/" target=&ldquo;blank&rdquo;>Causality in Vision workshop</a> at CVPR 2021.
+
+- date: May 2021
+  headline: Congratulations to Sai Srinivas on being awarded the prestigious Prime Minister's Research Fellowship (PMRF), the 3rd PMRF Fellow in our group!
+
+- date: May 2021
+  headline: Find Dr. Vineeth's interview by Analytics India Magazine <a href="https://analyticsindiamag.com/interview-with-vineeth-balasubramanian-head-of-ai-iit-hyderabad/" target=&ldquo;blank&rdquo;>here</a>.
+
+- date: Mar 2021
+  headline: We are delighted to announce that Dr. Vineeth has received the <b class='highlight'>Google Research Scholar Award </b> (earlier known as Google Faculty Research award). Our group is grateful to Google Research for their support.
+
+- date: Mar 2021
+  headline: Congratulations to Dr. Vineeth for the recognition as Outstanding Reviewer at <b class='highlight'>ICLR 2021</b>.
+
+- date: Mar 2021
+  headline: Our work on open-world object detection is accepted at <b class='highlight'>CVPR 2021</b> (as Oral). Congratulations to Joseph! This is joint work with MBZUAI, Abu Dhabi.
+
+- date: Feb 2021
+  headline: Our project for a 3D-imaging based vein intrusion guide system was awarded the prestigious <a href="https://sreepadmavathivenkateswarafoundation.org/" target=&ldquo;blank&rdquo;>SreePVF Research Grant award</a> for 2021. This project is a collaboration with Dr. Vandana Sharma (PI, Dept of Physics) and Dr. Mahati Chittem (Dept of Liberal Arts).
+
+- date: Feb 2021
+  headline: "Dr. Vineeth is serving as Program Co-chair of ACML 2021, and Associate Editor of Pattern Recognition journal (Impact Factor: 7.2)."
+
+- date: Feb 2021
+  headline: Find Dr. Vineeth's interview on IEEE Signal Processing Newsletter <a href="https://signalprocessingsociety.org/newsletter/2021/02/interview-vineeth-n-balasubramanian-associate-professor-iit-hyderabad-india" target=&ldquo;blank&rdquo;>here</a>.
+
+- date: Dec 2020
+  headline: Congratulations to Hari Chandana on being awarded the prestigious Prime Minister's Research Fellowship (PMRF)!
+
+- date: Dec 2020
+  headline: Our MTech student, Chaitanya, is selected for the Shastri Indo-Canadian Student Research Fellowship. Congratulations!
+
+- date: Dec 2020
+  headline: Two papers accepted at <b class='highlight'>AAAI 2021</b>. Congratulations to Ravi, Yash, Rahul, Anindya, Anirban!
+
+- date: Nov 2020
+  headline: Our work on generalized zero-shot learning is accepted at <b class='highlight'>WACV 2021</b>. Congratulations to Shivam!
+
+- date: Nov 2020
+  headline: Our work on choosing the initial pool for deep active learning methods is accepted at the interesting Pre-registeration workshop at NeuriPS 2020. Congratulations to Akshay, Vikas and Chaitanya!
+
+- date: Oct 2020
+  headline: Congratulations to Gowtham on being awarded the prestigious Prime Minister's Research Fellowship (PMRF)!
+
+- date: Oct 2020
+  headline: Grateful for the opportunity to coordinate the <a href='https://innovate.mygov.in/vaibhav-summit/' target=&ldquo;blank&rdquo;>Vaibhav Summit</a>'s <a href='https://vaibhav.gov.in/v2.php' target=&ldquo;blank&rdquo;>AIML vertical sessions</a>. For the computer vision session on Oct 14th, please see this link to attend.
+
+- date: Sep 2020
+  headline: Our work on meta-consolidation for continual learning is accepted at <b class='highlight'>NeurIPS 2020</b>. Congratulations to Joseph!
+
+- date: Aug 2020
+  headline: Dr. Vineeth is now offering a course on <b class='highlight'>Deep Learning for Computer Vision</b> on NPTEL starting in September. Here is <a href="https://swayam.gov.in/nd1_noc20_cs88/preview" target=&ldquo;blank&rdquo;>the link</a> for those interested to register.
+
+- date: Aug 2020
+  headline: Grateful to Microsoft Research India for their first postdoctoral funding grant in India. Welcome to Dr. Sandesh Kamath for joining our group as a postdoc under this grant.
+
+- date: Jul-Aug 2020
+  headline: Grateful for the recognition as Top Reviewer at <b class='highlight'>ECCV 2020</b>, Outstanding Reviewer at BMVC 2020; also serving as Area Chair of IJCAI 2021, elevated as Senior Member of IEEE.
+
+- date: Jul 2020
+  headline: Two papers accepted at <b class='highlight'>BMVC 2020</b>. Please see details <a href="/research/publications/" target=&ldquo;blank&rdquo;>here</a>.
+
+- date: Jul 2020
+  headline: Our work on training deep neural networks through alternate minimization, an alternate approach to backpropagation, is accepted at Elsevier Neural Networks.
+
+- date: Jul 2020
+  headline: "Our work on attributional robustness training is accepted at <b class='highlight'>ECCV 2020</b>. This is joint work with Adobe. Congratulations to Puneet, and all our collaborators at Adobe: Mayank, Nupur, Abhishek and Balaji! "
+
+- date: Jun 2020
+  headline: Puneet's work gets accepted at <b class='highlight'>ECML-PKDD 2020</b>. Congratulations to Puneet and Vedant, our 3rd- and 2nd-year undergraduate students.
+
+- date: Jun 2020
+  headline: Arghya is accepted for the CVPR 2020 Doctoral Consortium, congratulations!
+
+- date: May 2020
+  headline: "Our work on retrospection while training neural network models is accepted at <b class='highlight'>KDD 2020</b>. This is joint work with Adobe. Congratulations to Surgan, and all our collaborators at Adobe: Ayush, Piyush, Mausoom and Balaji!"
+
+- date: May 2020
+  headline:  Grateful to Adobe for their unrestricted research gift.
+
+- date: Mar 2020
+  headline: Our DaiSEE dataset was inaccessible for a few days, and is back online now  <a href="https://iith.ac.in/~daisee-dataset/" target=&ldquo;blank&rdquo;>here</a>.
+
+- date: Jan 2020
+  headline: Our work on &lsquo;&lsquo;Human Machine Collaboration for Face Recognition&rsquo;&rsquo; was a <b class='highlight'>Best Paper Award runner-up</b> at CODS-COMAD 2020. This was joint work with Prof Jawahar and Prof Sujit at IIIT-H.
+
+- date: Dec 2019
+  headline: 1 more paper accepted at WACV 2020 (2nd round). 4 papers accepted in WACV 2020 in total. Please see details <a href="/research/publications" target=&ldquo;blank&rdquo;>here</a>.
+
+- date: Sep 2019
+  headline: 3 papers accepted at WACV 2020 (1st round)! Details <a href="/publications" target=&ldquo;blank&rdquo;>here</a>. Our WACV&rsquo;20 work on using self-supervision for meta-learning will also be presented at the NeurIPS 2019 Workshop on Meta-Learning.
+
+- date: Sep 2019
+  headline: Our ICML 2019 work on computing causal attributions for neural network models featured in the media. Details <a href="/media" target=&ldquo;blank&rdquo;>here</a>.
+
+- date: Aug 2019
+  headline: Joseph wins the <b class='highlight'>TCS PhD Fellowship</b>. Congratulations! Grateful to TCS for the support. 
+
+- date: Aug 2019
+  headline: appy to share that our group students, Sukrut received the President of India Gold Medal, Vaibhav received the Gold Medal for Academic Excellence and Co-Curricular Activities, Nehal received the Silver Medal for MTech, and Rahul received the Silver Medal for BTech (ES) in this year's convocation. Congratulations to all of them!
+
+- date: Jun-Aug 2019
+  headline: Grateful for the recognition as Outstanding Reviewer at <b class='highlight'>CVPR 2019</b>, serving as Area Chair of <b class='highlight'>CVPR 2020</b> and on Senior PC of <b class='highlight'>AAAI 2020</b>.
+
+- date: May 2019
+  headline: Two papers accepted at <b class='highlight'>IJCAI 2019</b> (17.8% acceptance). Congratulations to Joseph, Vamshi Teja, Krishnakant and Harshitha!
+
+- date: Apr 2019
+  headline: Our work on causal attribution in neural networks is accepted at <b class='highlight'>ICML 2019</b>. Congratulations to Aditya, Piyushi and Anirban! Grateful for the ICML Travel Grants provided to Aditya and Anirban to present at the conference.
+
+- date: Apr 2019
+  headline: Joseph is selected to attend the <a href='http://iplab.dmi.unict.it/icvss2019/' target='_blank'>International Computer Vision Summer School</a> in Sicily. Congratulations!
+
+- date: Mar 2019
+  headline: We are organizing a (semi-closed) <a href='https://emtiyaz.github.io/aip_iith_workshop_2019/program.html' target='_blank'>IIT-H RIKEN AI workshop</a> with RIKEN AIP, Japan, on 15-16 Mar, 2019. Please consider participating.
+
+- date: Feb 2019
+  headline: Arghya's paper on Zero-shot Task Transfer gets accepted at <b class='highlight'>CVPR 2019</b> as on Oral (generally 2-3% acceptance in recent years). Congratulations! Arghya received the Google Travel Grant to present this work. Grateful to Google.
+
+- date: Dec 2018
+  headline: Grateful to Verisk for the AI Research Faculty Award.
+
+- date: Nov 2018
+  headline: We are organizing a workshop on <a href='https://kcis.iiit.ac.in/AI_Workshop/' target='_blank'>AI for Society in Developing Nations</a> (an AAAI India Chapter event) in Dec 2018. Please consider participating.
+
+- date: Nov 2018
+  headline: Our collaborative work on active learning for semantic segmentation is also accepted at <b class='highlight'>WACV 2019</b>.
+
+- date: Aug 2018
+  headline: Our work on cross-caption text-to-image synthesis is accepted at <b class='highlight'>WACV 2019</b>.
+
+- date: Jul 2018
+  headline: Our work on using GANs for scene refocusing is accepted at <b class='highlight'>ECCV 2018</b> (joint work with Prof PJN, IIIT). We also have two papers accepted at ECCV workshops.
+
+- date: Jul 2018
+  headline: Our work on learning a loss function for semantic segmentation is accepted at <b class='highlight'>BMVC 2018</b> (joint work with Prof Jawahar, IIIT).
+
+- date: Jun 2018
+  headline: Our work on understanding error landscape on neural networks will be presented at the Theory of Deep Learning and Non-convex Optimization <b class='highlight'>workshops at ICML 2018</b>.
+
+- date: Apr 2018
+  headline: Our dataset for understanding user engagement in the wild from videos, DAiSEE, is now available <a href='https://iith.ac.in/~daisee-dataset/' target='_blank'>here</a>. The dataset will be presented at the 4th Vision meets Cognition workshop at CVPR 2018, and was also featured <a href='https://www.thehindu.com/sci-tech/science/iit-hyderabad-dataset-to-understand-online-user-engagement/article24180468.ece' target='_blank'>in the media (The Hindu)</a>.
+
+- date: Mar 2018
+  headline: Senior-year undergrad students from our group have received admits into CMU, Columbia, Facebook AI Residency, Google AI/Brain Residency and IDSIA (birthplace of LSTMs). Congratulations to Sneha, Bhavana, Yash, Ayushi, Arjun and Ramakrishna! <a href='https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-iit-student-bags-rs-1-2-crore-package-with-google/articleshow/65305553.cms' target='_blank'>(Media Coverage here)</a>
+
+- date: Feb 2018
+  headline: Arghya's paper on Adversarial Data Programming (creating labeled datasets from weak labeling functions) gets accepted at <a>CVPR 2018</a>. Congratulations!
+
+- date: Jan 2018
+  headline: Vishwak wins S N Bose Fellowship award, and Sukrut wins the Honda Y-E-S award. Congratulations to Vishwak and Sukrut.
+
+- date: Dec 2017
+  headline: Grateful to Honeywell, MHRD and DST for the UAY and ICPS grants to support our research.
+
+- date: Dec 2017
+  headline: Grateful to IBM for the IBM Shared University Research award to support our research.
+
+- date: Oct 2017
+  headline: Our work on Grad-CAM, an improved version of Grad-CAM, is accepted to <b class='highlight'>WACV 2018</b>. Congratulations to Anirban, Aditya and Prantik.
+
+- date: Oct 2017
+  headline: We have 3 papers accepted to ACM iKDD CODS-COMAD 2018. Please see the publications here. Congratulations to Vishwak, Ravi (twice), Supriya and Himangi.
+
+- date: Jul 2017
+  headline: Our work on using deep recurrent attentive architectures for generating videos from captions is accepted at <b class='highlight'>ACM MM 2017</b> as an Oral Paper (7.5% acceptance rate) and at <b class='highlight'>ICCV 2017</b>. Congratulations to Tanya and Gaurav.
+
+- date: Jun 2017
+  headline: Our work on using deep learning for detecting road intersections from monocular cameras is accepted at <b class='highlight'>IROS 2017</b>. Congratulations to the students - Danish, Dhaivat and Arghya. This is collaborative work with Prof Madhava Krishna at IIIT-H.
+
+- date: May 2017
+  headline: Anirban and Vishwak selected to intern at the University of Tokyo under the Sakura Science Plan. Congratulations to both of them!
+
+- date: May 2017
+  headline: Senior-year undergrad students from our group have received admits into CMU, Columbia, Georgia Tech, University of Montreal, Wisconsin-Madison and University of Massachusetts, Amherst for their Masters. Congratulations to Tanya, Akshita, Sahil, Hrishikesh, Teja and Sreekar!
+
+- date: Apr 2017
+  headline: Arghya selected to attend the International Computer Vision Summer School at Sicily in July. Congratulations Arghya!
+
+- date: Feb 2017
+  headline: Arasu selected for the prestigious S N Bose Fellowship, and Sneha selected for the Viterbi Fellowship. Congratulations!
+
+- date: Oct 2016
+  headline: Arghya awarded the Intel PhD fellowship. Congratulations Arghya!
+
+- date: Oct 2016
+  headline: As part of our collaborative efforts on e-learning, CDAC is organizing a workshop on e-Learning and Multimodal Learning Analytics. Please participate if this interests you.
+
+- date: Oct 2016
+  headline: Our undergraduate students’ (Sahil, Akilesh, Tanya) research was accepted and presented at IWML 2016 and IBM I-CARE 2016. Congratulations to all of them.
+
+- date: Jul 2016
+  headline: Serving as the Technical Co-Chair for the Cognitive Computing Track at IBM I-CARE 2016. Please consider submitting your work.
+
+- date: Jun 2016
+  headline: We are organizing a workshop on Assistive Vision at ACCV 2016. Please consider submitting your work.
+
+- date: Jun 2016
+  headline: We are conducting a TEQIP workshop on Deep Learning for Visual Computing at IIT-Hyderabad between Jun 20-25, and a Summer School on Deep Learning for Computer Vision at IIIT-H between Jul 11-15. Please apply if you are interested!
+
+- date: Jan 2016
+  headline: We have two papers accepted to <b class='highlight'>WACV 2016</b>. Congratulations to Aditya, Aradhya and Digvijay.
+
+- date: Dec 2015
+  headline: We organized an Indo-UK workshop on “Conformal Prediction for Reliable Machine Learning”, funded by the EPSRC-DST Indo-UK Initiative on Applied Mathematics.
+
+- date: Oct 2015
+  headline: Adepu Ravi Sankar awarded the Intel PhD fellowship. Congratulations Ravi!

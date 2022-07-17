@@ -1,0 +1,102 @@
+#- name: 
+#  photo: 
+#  info:
+#  email:
+
+- name: Anirban Sarkar
+  photo: cs16resch11006.jpg
+  desig: PhD Student
+  info: "2016 - Present"
+  id: cs16resch11006
+  email: cs16resch11006@iith.ac.in
+  webpage: https://sites.google.com/iith.ac.in/anirbansarkar
+  google-scholar: https://scholar.google.co.in/citations?user=9UF4mT0AAAAJ&hl=en
+  affiliations: IIT Hyderabad
+  topics: Explainable/Robust AI, Causality
+
+- name: Sakshi Varshney 
+  info: "**Visvesvaraya Fellow**, 2016 - Present (Co-advisor, Advisor: [Prof Srijith P K](https://sites.google.com/site/pksrijith/home), IIT-H)"
+  email: cs16resch01002@iith.ac.in
+  photo: placeholder-f.jpg
+  topics: Implicit Generative Models, Generative Adversarial Networks
+
+- name: K J Joseph
+  photo: cs17m18p100001.jpg
+  desig: PhD Student
+  info: "**TCS PhD Fellow**, 2017 - Present"
+  id: cs17m18p100001
+  email: cs17m18p100001@iith.ac.in
+  webpage: "https://josephkj.in/"
+  google-scholar: https://scholar.google.com/citations?user=sOG3L94AAAAJ&hl=en
+  affiliations: IIT Hyderabad
+  topics: Continual Learning
+
+
+- name: Piyushi Manupriya
+  photo: cs18mtech11019.jpg
+  desig: PhD Student
+  info: "2018 - Present (Co-advisor, Advisor: [Prof Saketha Nath J](https://www.iith.ac.in/~saketha/), IIT-H)"
+  id: cs18mtech11019
+  email: cs18mtech11019@iith.ac.in
+  affiliations: IIT Hyderabad
+  webpage: https://piyushi-0.github.io/
+  google-scholar: https://scholar.google.com/citations?user=-9baEZEAAAAJ&hl=en
+  topics: Explainable Machine Learning, Optimization, Probabilistic Modelling
+
+- name: Abbavaram Gowtham Reddy
+  photo: cs19resch11002.jpg
+  desig: PhD Student
+  info: "**PMRF Fellow**, 2019 - Present"
+  id: cs19resch11002
+  email: cs19resch11002@iith.ac.in
+  webpage: "https://sites.google.com/view/gowthamabbavaram/abbavaramgowthamreddy"
+  affiliations: IIT Hyderabad
+  topics: Deep learning, Causality, Neuro Symbolic AI
+
+- name: Bhat Dittakavi
+  photo: ai19resch11001.jpeg
+  desig: PhD Student
+  info: "2019 - Present"
+  id: ai19resch11001
+  email: ai19resch11001@iith.ac.in
+  webpage: "http://www.bhatsnotes.com"
+  affiliations: IIT Hyderabad
+  topics: Deep Learning, Computer Vision, Human Pose, Visual Dialog Systems
+
+- name: Hari Chandana Kuchibhotla
+  photo: placeholder-f.jpg
+  desig: PhD Student
+  info: "**PMRF Fellow**, 2020 - Present"
+  id: ai20resch11006
+  email: ai20resch11006@iith.ac.in
+  # webpage: 
+
+  affiliations: IIT Hyderabad
+  # topics: 
+
+- name: Sairam Rebbapragada
+  photo: placeholder.jpg
+  desig: PhD Student
+  info: "2020 - Present"
+  id: ai20resch13001
+  email: ai20resch13001@iith.ac.in
+  # webpage: 
+  affiliations: IIT Hyderabad
+  # topics: 
+
+- name: Rohit Dubey
+  info: "2020 - Present"
+  next: PhD at IIT-Hyderabad (External), Micron Technologies
+  email: ai20resch14005@iith.ac.in
+  photo: placeholder.jpg
+  # optional
+  webpage: 
+  accomplishments: 
+
+- name: Kancheti Sai Srinivas
+  id: cs21resch01004
+  email: cs21resch01004@iith.ac.in
+  info: "**PMRF Fellow**, 2021 - Present"
+  photo: placeholder.jpg
+  topics:
+  
