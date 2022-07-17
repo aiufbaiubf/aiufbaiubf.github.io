@@ -1,5 +1,5 @@
 ---
-title: 'Machine Learning and Vision Group - Team'
+title: 'MADHAV Lab - Team'
 layout: gridlay
 excerpt: 'Team members'
 sitemap: false
