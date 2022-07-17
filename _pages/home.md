@@ -1,7 +1,7 @@
 ---
-title: "Machine Learning and Vision Group - IIT Hyderabad"
+title: "Machine Analysis of Data for Human Audition and Visualization Lab - IIT Kanpur"
 layout: homelay
-excerpt: "Machine Learning and Vision Group - IIT Hyderabad"
+excerpt: "Machine Analysis of Data for Human Audition and Visualization Lab - IIT Kanpur"
 sitemap: false
 permalink: /
 ---
