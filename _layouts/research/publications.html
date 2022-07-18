@@ -1,89 +1,41 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-        
-        <meta name="category" content="LIT">
-    
-        <meta name="description" content="">
-        <meta name="author" content="">
 
-        <title>Publications | Language Information and Technologies</title>
+---
+layout: default
+---
 
-        <!-- Bootstrap core CSS -->
-        <link href="dist/css/bootstrap.min.css" rel="stylesheet">
+<div id="publications" class="col-sm-12">
+  <h1 class="page-header">
+    Publications
+  </h1>
 
-        <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-        <link href="assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+  {% assign years = site.data.years | reverse %} {% for year in years %} {% assign papers =
+  site.data.publist | where: "year", year %} {% if papers[0] %} 
+  <div class="year" style="font-size: 40px; color: black;">{{ year }}</div>
 
-        <!-- Custom styles for this template -->
-        <link href="css/carousel.css" rel="stylesheet">
-        <link href="css/navbar.css" rel="stylesheet">
-        <link href="css/index.css" rel="stylesheet">
-    </head>
-    <body>
-        <!--Google Analytics "LIT Website" Tracker-->
-        <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-        ga('create', 'UA-98452906-1', 'auto');
-        ga('send', 'pageview');
-        </script>
-        
-        <div id="main_container" class="container">
-      
-            <!-- Static navbar -->
-            <nav class="navbar navbar-default">
-                <div class="container-fluid">
-                    <div class="navbar-header">
-                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                        <a class="navbar-brand" href="index.html"><b>Language and Information Technologies</b></a>
-                    </div>
-                    <div id="navbar" class="navbar-collapse collapse">
-                        <ul class="nav navbar-nav">
-                            <li><a href="people.html">People</a></li>
-                            <li><a href="projects.html">Projects</a></li>
-                            <li class="active"><a href="publications.html">Publications</a></li>
-							<li><a href="posters.html">Poster Gallery</a></li>
-                            <li><a href="downloads.html">Downloads / Demos</a></li>
-                            <li><a href="news.html">Events</a></li>
-                        </ul>
-                    </div><!--/.nav-collapse -->
-                </div><!--/.container-fluid -->
-            </nav>
-            
-            <div id="categories"></div>
-            
-            <div id="publications"></div>
-            
-            </div>
-    
-        </div><!-- /.container -->
-
-        <!-- Bootstrap core JavaScript
-        ================================================== -->
-        <!-- Placed at the end of the document so the pages load faster -->
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="assets/js/vendor/jquery.min.js"><\/script>')</script>
-        <script src="dist/js/bootstrap.min.js"></script>
-        <script src="js/jquery.cookie.js"></script>
-        <script src="js/parseCsv.js"></script>
-        <script src="js/showPublication.js"></script>
-        <script src="js/publications.js"></script>
-    
-        <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-        <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
-        
-    </body>
-</html>
+  {% for publi in papers %}
+  <div class="group" style="margin-bottom: 20px; line-height: 24px;">
+    <div style="font-size: 20px;">{{ publi.title }}</div>
+    <div style="font-size: 14px;"><em>{{ publi.authors }} </em></div>
+    <div style="font-size: 12px;">{{ publi.venue }}</div>
+    {% if publi.paper.url %}<a style="margin-right: 20px;" href="{{ publi.paper.url }}"
+      ><i class="fas fa-file-alt"></i> Paper</a
+    >
+    {% endif %} {% if publi.code.url %}<a style="margin-right: 20px;" href="{{ publi.code.url }}"
+      ><i class="fas fa-file-code"></i> Code</a
+    >
+    {% endif %} {% if publi.project_page.url %} {% assign internal = publi.project_page.url | split:
+    "//" %} {% if internal[1] %}
+    <a target="_blank" style="margin-right: 20px;" href="{{ publi.project_page.url }}"
+      ><i class="fas fa-file-invoice"></i> Project Page</a
+    >
+    {% else %}
+    <a
+      target="_blank"
+      style="margin-right: 20px;"
+      href="{{ site.url }}{{ site.baseurl }}/projectpages/{{ publi.project_page.url }}"
+      ><i class="fas fa-file-invoice"></i> Project Page</a
+    >
+    {% endif %} {% endif %}
+  </div>
+  {% endfor %} {% endif %} {% endfor %}
+</div>
