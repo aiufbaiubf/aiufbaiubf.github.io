@@ -1,105 +1,16 @@
 - year: 2021
   title: "Domain adaptation based deep calibration of low-cost PM2.5 sensors"
   authors: Sonu Kumar Jha, Mohit Kumar, Vipul Arora, Sachchida Nand Tripathi, Vidyanand Motiram Motghare, and A. A. Shingare
-  venue: "IEEE Sensors Journal, Feb 2022"
+  venue: "IEEE Sensors Journal, Oct 2021"
   paper:
     url: https://ieeexplore.ieee.org/document/9567697
 
-- year: 2022
+- year: 2021
   title: "EEG Based Drowsiness Detection With Fuzzy Independent Phase Locking Value Representations Using Lagrangian Based Deep Neural Networks"
   authors: Tharun Kumar Reddy, Vipul Arora, Rupam Biswas, Vinay Gupta, and Laxmidhar Behera
-  venue: "IEEE Transactions on Systems, Man and Cybernetics: Systems, Jan 2022"
+  venue: "IEEE Transactions on Systems, Man and Cybernetics: Systems, Oct 2021"
   paper:
     url: https://ieeexplore.ieee.org/document/9565224/
-
-- year: 2022
-  title: "COCOA: Context-Conditional Adaptation for Recognizing Unseen Classes in Unseen Domains"
-  authors: Puneet Mangla, Shivam Chandhok, Vineeth N Balasubramanian, Fahad S Khan
-  venue: "Proceedings of IEEE Winter Conference on Applications of Computer Vision (WACV’22), Jan 2022"
-  paper:
-    url: https://arxiv.org/abs/2107.07497
-
-- year: 2022
-  title: "Leveraging Test-Time Consensus Prediction for Robustness against Unseen Noise"
-  authors: Anirban Sarkar, Anindya Sarkar, V. Balasubramanian
-  venue: "Proceedings of IEEE Winter Conference on Applications of Computer Vision (<b>WACV’22</b>), Jan 2022 <br/> (Also presented at Workshop on Adversarial Robustness In The Real World, IEEE-CVF International Conference on Computer Vision (ICCVW’21), Oct 2021)"
-  paper:
-    url: https://openaccess.thecvf.com/content/WACV2022/papers/Sarkar_Leveraging_Test-Time_Consensus_Prediction_for_Robustness_Against_Unseen_Noise_WACV_2022_paper.pdf
-
-- year: 2022
-  title: "Data InStance Prior (DISP) in Generative Adversarial Networks"
-  authors: Puneet Mangla, Nupur Kumari, Mayank Singh, Balaji Krishnamurthy, Vineeth N Balasubramanian
-  venue: "Proceedings of IEEE Winter Conference on Applications of Computer Vision (<b>WACV’22</b>), Jan 2022"
-  paper:
-    url: https://arxiv.org/abs/2012.04256
-
-- year: 2022
-  title: "Multi-Domain Incremental Learning for Semantic Segmentation"
-  authors: Prachi Garg, Rohit Saluja, V N Balasubramanian, Chetan Arora, Anbumani S, C. V. Jawahar
-  venue: "Proceedings of IEEE Winter Conference on Applications of Computer Vision (<b>WACV’22</b>), Jan 2022"
-  paper:
-    url: https://arxiv.org/abs/2110.12205
-
-- year: 2022
-  title: "FLUID: Few-Shot Self-Supervised Image Deraining"
-  authors: Shyam Nandan Rai, Chetan Arora, V N Balasubramanian, Anbumani S, Rohit Saluja, C. V. Jawahar
-  venue: "Proceedings of IEEE Winter Conference on Applications of Computer Vision (<b>WACV’22</b>), Jan 2022"
-  paper:
-    url: https://openaccess.thecvf.com/content/WACV2022/papers/Nandan_FLUID_Few-Shot_Self-Supervised_Image_Deraining_WACV_2022_paper.pdf
-
-- year: 2022
-  title: "To mis-attend is to misalign! Residual Self-Attentive Feature Alignment for Adapting Object Detectors"
-  authors: Vaishnavi Khindkar, Chetan Arora, V N Balasubramanian, Anbumani S, Rohit Saluja, C. V. Jawahar
-  venue: "Proceedings of IEEE Winter Conference on Applications of Computer Vision (<b>WACV’22</b>), Jan 2022"
-  paper:
-    url: https://openaccess.thecvf.com/content/WACV2022/papers/Khindkar_To_Miss-Attend_Is_to_Misalign_Residual_Self-Attentive_Feature_Alignment_for_WACV_2022_paper.pdf
-
-- year: 2021
-  title: "Adversarial Robustness without Adversarial Training: A Teacher-Guided Curriculum Learning Approach"
-  authors: Anindya Sarkar, Anirban Sarkar, Sowrya Gali, V. Balasubramanian
-  venue: "Proceedings of Neural Information Processing Systems (<b>NeurIPS'21</b>), Dec 2021"
-  paper:
-    url: https://openreview.net/pdf?id=MqCzSKCQ1QB
-
-- year: 2021
-  title: "Can we have it all? On the Trade-off between Spatial and Adversarial Robustness of Neural Networks"
-  authors: Sandesh Kamath, Amit Deshpande, K V Subrahmanyam, V. Balasubramanian
-  venue: "Proceedings of Neural Information Processing Systems (<b>NeurIPS'21</b>), Dec 2021"
-  paper: 
-    url: https://arxiv.org/abs/2002.11318
-
-- year: 2021
-  title: "Incremental Object Detection via Meta-Learning"
-  authors: K J Joseph, Jathushan R, Salman Khan, Fahad Khan, V. Balasubramanian
-  venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>) (Accepted, To Appear) <span style='color:blue'>(Impact Factor: 16.39)</span>"
-  paper: 
-    url: https://arxiv.org/abs/2003.08798
-  code:
-    url: https://github.com/JosephKJ/iOD
-
-- year: 2021
-  title: "Canonical Saliency Maps: Decoding Deep Face Models"
-  authors: Thrupthi A John, V. Balasubramanian, C V Jawahar
-  venue: "IEEE Transactions on Biometrics, Behavior, and Identity Science, 2021 (Accepted, To Appear)"
-  paper: 
-    url: https://arxiv.org/abs/2105.01386
-
-
-- year: 2021
-  title: Efficient Maize Tassel-Detection Method using UAV based Remote Sensing
-  authors: Ajay Kumar, Sai Vikas Desai, V. Balasubramanian, Wei Guo, Seishi Ninomiya, Uday Desai, P Rajalakshmi
-  venue: "Elsevier Remote Sensing Applications: Society and Environment, 2021  (To Appear)"
-  paper:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S2352938521000859
-
-- year: 2021
-  title: "CANDLE: An Image Dataset for CausalANalysis in DisentangLed REpresentations"
-  authors: A Gowtham Reddy, Benin Godfrey, V. Balasubramanian
-  venue: Workshop on Causality in Vision, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’21), Jun 2021 <b style='color:red'>(Best Paper Award)</b>
-  paper:
-    url: http://www.causalityinvision.com/papers/0015.pdf
-  code:
-    url: https://github.com/causal-disentanglement/CANDLE
 
 - year: 2021
   title: Towards Open-World Object Detection
