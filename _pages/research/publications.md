@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning and Vision Group - Publications"
+title: "MADHAV Lab - Publications"
 layout: research/publications
 excerpt: "Publications"
 sitemap: false
