@@ -154,7 +154,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-### Research Assistants/Interns
+### Project Associates/Staff
 
 {% assign number_printed = 0 %}
 {% for member in site.data.current_students.third_party_members %}
@@ -202,7 +202,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-### Undergrad Students
+### Undergrad Students/Interns
 
 {% assign number_printed = 0 %}
 {% for member in site.data.current_students.undergrad %}
