@@ -248,3 +248,5 @@ permalink: /team/
 
 </div>
 {% endif %}
+  
+*This list may not be exhaustive. If you agree, please send a mail to xyz at xyz@iitk.ac.in*
