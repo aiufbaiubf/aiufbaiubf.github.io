@@ -1,48 +1,57 @@
+- name: Anup Singh
+  email: anups@iitk.ac.in
+  webpage: "https://vipular.github.io"
+  info: "2020 - Present"
+  photo: placeholder.jpg.jpg
+  topics: Sr. Student Research Associate
 
 - name: Suraj Jaiswal
-  email: jsuraj@cse.iitk.ac.in
+  email: jsuraj@iitk.ac.in
   webpage: "https://vipular.github.io"
   info: "2020 - Present"
   photo: jsuraj.jpg
   topics: Sr. Project Associate
 
-- name: Monish Keswani
+- name: Shiv Narayan Pandey
+  email: shivnp@iitk.ac.in
+  webpage: "https://vipular.github.io"
+  info: "2020 - Present"
+  photo: placeholder.jpg.jpg
+  topics: Project Associate
+
+- name: Renu Sameer Chouhan
+  email: renusc@iitk.ac.in
+  webpage: "https://vipular.github.io"
+  info: "2022 - Present"
+  photo: placeholder.jpg.jpg
+  topics: Deputy Project Manager
+
+- name: Kajal Heer
+  email: kajalh@iitk.ac.in
+  webpage: "https://vipular.github.io"
+  info: "2022 - Present"
+  photo: placeholder.jpg.jpg
+  topics: Deputy Project Manager
+
+- name: Akshay Raina
+  email: akshayr@iitk.ac.in
+  webpage: "https://raina-akshay.github.io"
+  id: akshayr
+  info: "2022 - Present"
+  photo: placeholder.jpg.jpg
+  google-scholar: https://scholar.google.com/citations?user=urGzmJIAAAAJ&hl=en
+  topics: Student Research Associate
+
+- name: Divyanshu Tripathi 
+  email: divyanshut@iitk.ac.in
+  webpage: "https://vipular.github.io"
+  info: "2022 - Present"
+  photo: placeholder.jpg.jpg
+  topics: Project Assistant
+
+- name: Surjit Singh
   email: monish.keswani@cse.iith.ac.in
   info: "2021 - Present"
   affiliations: IISc, Bangalore
   photo: placeholder.jpg
-
-- name: Rishabh Lalla
-  email: rishabh.lalla@cse.iith.ac.in
-  info: "2021 - Present"
-  affiliations: Univ of Mumbai
-  photo: placeholder.jpg
-
-- name: Benin Godfrey L
-  id: 
-  email: benin.godfrey@cse.iith.ac.in
-  info: "2020 - Present"
-  webpage: 
-  affiliations: 
-  photo: placeholder.jpg
-  topics: Computer Vision, Causality, Evolutionary Algorithms
-
-- name: Gaurav Bhatt
-  photo: gauravbhatt.jpg
-  info: "2019 - Present"
-  id: gauravbhatt
-  email: gauravbhatt@iith.ac.in
-  affiliations: IIT Hyderabad
-  topics:
-  # webpage: 
-
-- name: Rahul Vigneswaran K
-  id: rahulvigneswaran
-  email: rahulvigneswaran@iith.ac.in
-  info: "2019 - Present"
-  webpage: "https://rahulvigneswaran.github.io/"
-  affiliations: IIT Hyderabad
-  photo: rahulvigneswaran.png
-  google-scholar: https://scholar.google.co.in/citations?user=s7P6kbsAAAAJ&hl=en
-  topics:
-
+  topics: Sr. Project Mechanic
