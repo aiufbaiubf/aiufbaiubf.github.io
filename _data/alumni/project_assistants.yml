@@ -25,51 +25,14 @@
   next: Tech Mahindra
   webpage: https://google.com/
 
-- name: Shiv Narayan Pandey
-  info: "July 2020 - Present"
-  next: RA, MBZUAI, Abu Dhabi
-  webpage: https://google.com/
-
 - name: Vishwajeet Choubey
   info: "Aug 2020 - June 2022"
   next: CEO, Worldwin Coder
   webpage: https://google.com/
-
-- name: Suraj Jaiswal
-  info: "Oct 2020 - Present"
-  next: Masters, KAIST, South Korea
-  webpage: https://google.com/
-
-- name: Surjit Singh Sr. Proj Mech
-  info: Nov 2021 - Present
-  next: Masters, University of Tuebingen, Germany
-
-- name: Renu Sameer Chouhan Dpty Proj Manager
-  info: Nov 2021 - Present
-  next: Masters, Saarland Univ, Germany
-
-- name: Kajal Heer Dpty Proj Manager
-  info: Jan 2022 - Present
-  next: MTech, IIT Hyderabad
-  webpage: https://tdchaitanya.github.io/
 
 - name: Chand Kiran
   info: Feb 2022 - May 2022 
   next: PhD, EPFL
   # optional
   webpage: https://scholar.google.com/citations?user=pkc2DDkAAAAJ&hl=en
-  accomplishments: 
-
-- name: Divyanshu Tripathi Proj Assistant
-  info: Feb 2022 - Present
-  next: Deep Learning and Computer Vision R&D, Ernst and Young
-  # optional
-  webpage: 
-  accomplishments: 
-
-- name: Akshay Raina
-  info: May 2022 - Present
-  next: PhD, Johns Hopkins Univ under Prof Rene Vidal
-  # optional
-  webpage: https://google.com
   accomplishments: 
