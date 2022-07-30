@@ -5,71 +5,71 @@
 #   webpage: 
 #   accomplishments: 
 
-- name: Akshay L Chandra
-  info: 2018 - 21
-  next: Masters, University of Freiburg, Germany
-  webpage: https://akshaychandra.com/
-
-- name: Uttaran Sinha
-  info: "2019 - 21"
-  next: Applied Scientist, Amazon
-  # optional
-  webpage: https://uttaransinha.github.io/ 
-
-- name: Neha Tarigopula
-  info: "2020 - 2021"
-  next: PhD, EPFL
-
-- name: Sai Srinivas
-  info: "2019 - 2020"
-  next: PhD, IIT Hyderabad
-  webpage: https://scholar.google.com/citations?user=JJP7dOsAAAAJ&hl=en
-
-- name: Shivam Chandhok
-  info: "2019 - 2020"
-  next: RA, MBZUAI, Abu Dhabi
-  webpage: https://scholar.google.com/citations?user=ZER2BeIAAAAJ&hl=en
-
-- name: Vaasudev Narayanan
-  info: "2020"
-  next: MTech, IIT Hyderabad
-  webpage: https://vdevmcitylp.github.io/
-
-- name: Radhika Dua
-  info: "2019 - 2020"
-  next: Masters, KAIST, South Korea
-  webpage: https://radhikadua123.github.io/
-
-- name: Sandeep Inuganti
+- name: Abhishek Panchal
   info: 2019 - 20
+  next: PhD, Singapore
+  webpage: https://google.com/
+
+- name: Abhishek Rai
+  info: "Jan 2020 - May 22"
+  next: Sr. Poject Associate, Prof. Rajesh M Hegde
+  # optional
+  webpage: https://google.com/
+
+- name: Aishwarya Sainath
+  info: "Feb 2020 - Sep 2020"
+  next: Unknown
+
+- name: Prabal Pratap
+  info: "July 2020 - Sep 2021"
+  next: Tech Mahindra
+  webpage: https://google.com/
+
+- name: Shiv Narayan Pandey
+  info: "July 2020 - Present"
+  next: RA, MBZUAI, Abu Dhabi
+  webpage: https://google.com/
+
+- name: Vishwajeet Choubey
+  info: "Aug 2020 - June 2022"
+  next: CEO, Worldwin Coder
+  webpage: https://google.com/
+
+- name: Suraj Jaiswal
+  info: "Oct 2020 - Present"
+  next: Masters, KAIST, South Korea
+  webpage: https://google.com/
+
+- name: Surjit Singh Sr. Proj Mech
+  info: Nov 2021 - Present
   next: Masters, University of Tuebingen, Germany
 
-- name: Rahul Nittala
-  info: 2019 - 20
+- name: Renu Sameer Chouhan Dpty Proj Manager
+  info: Nov 2021 - Present
   next: Masters, Saarland Univ, Germany
 
-- name: Chaitanya Devaguptapu
-  info: 2018 - 19
+- name: Kajal Heer Dpty Proj Manager
+  info: Jan 2022 - Present
   next: MTech, IIT Hyderabad
   webpage: https://tdchaitanya.github.io/
 
-- name: Harshitha Machiraju
-  info: 2018 - 19 
+- name: Chand Kiran
+  info: Feb 2022 - May 2022 
   next: PhD, EPFL
   # optional
   webpage: https://scholar.google.com/citations?user=pkc2DDkAAAAJ&hl=en
   accomplishments: 
 
-- name: Satwik Kondamudi
-  info: 2018-19
+- name: Divyanshu Tripathi Proj Assistant
+  info: Feb 2022 - Present
   next: Deep Learning and Computer Vision R&D, Ernst and Young
   # optional
   webpage: 
   accomplishments: 
 
-- name: Aditya Chattopadhyay
-  info: 2017 - 18
+- name: Akshay Raina
+  info: May 2022 - Present
   next: PhD, Johns Hopkins Univ under Prof Rene Vidal
   # optional
-  webpage: https://scholar.google.co.in/citations?user=aekzv1gAAAAJ&hl=en
+  webpage: https://google.com
   accomplishments: 
